@@ -17,3 +17,11 @@ body{
     margin-top: 100px;
   
 }
+#cabecalho, #titulo{
+    position: fixed;
+    top: 0;
+    background-color: rgb(215, 218, 217);
+    width: 100%;
+    text-align: center;
+
+}
