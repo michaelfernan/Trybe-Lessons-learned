@@ -69,3 +69,11 @@ footer{
    border: 2px;
    text-align: center;
 }
+.lado-esquerdo{
+    float: left;
+
+}
+.lado-direito{
+    float: right;
+
+}
