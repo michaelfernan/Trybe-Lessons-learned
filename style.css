@@ -31,6 +31,8 @@
 .tab{
     border: 2px;
     text-align: center;}
+#artigo{font-size: 0;
+    display:inline-block;}
 #cabecalho
 ,#titulo{
     position: fixed;
