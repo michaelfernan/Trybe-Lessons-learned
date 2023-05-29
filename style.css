@@ -1,21 +1,21 @@
 body{
-    background-color: rgb(253, 251, 251);
+    background-color:rgb(253, 251, 251);
     margin: 0;}
 #minha_foto{
     margin-top: 50px;
     border-radius: 20px;
     width: 300px;
-    background-color: antiquewhite;
+    background-color:antiquewhite;
     margin-left: 50px;}
 #cabecalho, #titulo{
     position: fixed;
     top: 0px;
-    background-color: rgb(215, 218, 217);
+    background-color:rgb(215, 218, 217);
     width: 100%;
     text-align: center;
     margin-top: -2px;}
 .licoes2, .licoes1{
-    background-color: rgb(198, 190, 190);
+    background-color:rgb(198, 190, 190);
     border-radius: 20px;
     width: 290px;
     margin: 40px;
@@ -24,14 +24,14 @@ body{
 h1{
     text-align: center;}
 a{
-    background-color: rgb(226, 220, 220);
+    background-color:rgb(226, 220, 220);
     border-radius: 15px;
     width: 500px;}
 a:hover{
     background-color:black;
-    color: aliceblue; }
+    color:aliceblue; }
 .texto,.texto1{
-    background-color: rgb(198, 190, 190);
+    background-color:rgb(198, 190, 190);
     border-radius: 20px;
     width: 290px;
     margin: 40px;
