@@ -22,10 +22,13 @@ body{
 ,.licoes1{
     background-color: rgb(198, 190, 190);
     border-radius: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12px;
     width: 290px;
     margin: 40px;
     padding: 2px;
     float: right;}
+    
 
 h1{
     text-align: center;}
