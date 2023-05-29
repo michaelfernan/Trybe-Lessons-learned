@@ -9,8 +9,8 @@ body{
     background-color: antiquewhite;
     margin-left: 50px;}
 
-#cabecalho,
-#titulo{
+#cabecalho
+,#titulo{
     position: fixed;
     top: 0px;
     background-color: rgb(215, 218, 217);
@@ -18,8 +18,8 @@ body{
     text-align: center;
     margin-top: -2px;}
 
-.licoes2,
-.licoes1{
+.licoes2
+,.licoes1{
     background-color: rgb(198, 190, 190);
     border-radius: 20px;
     width: 290px;
